@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T18:40:40.130Z'
-dateModified: '2016-01-29T18:40:14.352Z'
+datePublished: '2016-01-29T18:44:17.645Z'
+dateModified: '2016-01-29T18:43:57.382Z'
 title: 'Historic endpoints of US 31 in Mobile, AL'
 author: []
 sourcePath: _posts/2016-01-29-historic-endpoints-of-us-31-in-mobile-al.md
@@ -33,9 +33,10 @@ This map may be helpful in terms of illustrating the descriptions below. I am in
 * maps
 * documents
 * historic photos that include highway shields
-* etc. ![ALDoT, c. 1936](https://the-grid-user-content.s3-us-west-2.amazonaws.com/90cd1074-7390-4961-895b-90b5fdeb3519.jpg)
+* etc. 
 
 The US routes were signed in the late 1920s, but the first Mobile inset to show them (of which I'm aware) comes from the 1936 State Highway Dept. official map:
+![ALDoT, c. 1936](https://the-grid-user-content.s3-us-west-2.amazonaws.com/90cd1074-7390-4961-895b-90b5fdeb3519.jpg)
 
 That was a few years before the Bankhead Tunnel opened. The routing of US 90 is clearly shown: after crossing Mobile Bay, it continued by heading north on Blakeley Island, and then crossed the Mobile River via the original Cochrane Bridge (which opened in 1927, in the same location as today's Cochrane-Africatown Bridge). After heading west a bit on Bay Bridge Road, it then turned south on Telegraph Road and crossed the railyards to connect with Joachim Street. Then east three blocks on St. Louis Street, south on Royal Street, west on Government Street, and out of town. The 1939 edition of the map showed this more clearly, using red strokes for highway routes:
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3348caca-1ca2-44c4-87bf-fcb0c991a6d9.jpg)
@@ -61,7 +62,7 @@ On the right side of both maps, you can see that US 31 came across Mobile Bay wi
 1955 ALDoT: first map since 1939 to use red strokes only for highway routes (not for other major roads), as well as the first map to show US 98 signed through Mobile. Also, this was the first to show a US 43 shield on Telegraph, in addition to its original route along Wilson - St. Stephens - Spring Hill. This reflects the fact that Telegraph was changed to mainline 43, while the original route was re-designated as Alt. US 43\. So at this point it became possible (although not likely) that US 31 could've been truncated to Bay Bridge at Telegraph.
 
 1956 Gousha (below):
-![Gousha, c. 1956](https://the-grid-user-content.s3-us-west-2.amazonaws.com/220c3266-d6c4-498a-a3ed-597a1a087aba.jpg)
+![Gousha, c. 1956](https://s3-us-west-2.amazonaws.com/the-grid-img/p/664a40bd6a6cdd0e0af12d9f0a9ee659add8b196.jpg)
 
 Based on other maps in that series, red lines seem to have been used only for numbered highway routes... so why were Royal and Conception shown with red strokes? One possible interpretation is that US 98 followed St. Joseph - St. Louis - Spring Hill; US 90 followed St. Joseph - Dauphin - Conception - Government; and US 31 followed St. Joseph - St. Louis - Royal. This is the most detailed historic map of Mobile I've seen, but I'm not quite sure what to make of it, since not all of its particulars line up with contemporary ALDoT or USGS maps. US 43 is an example: it's shown on Spring Hill, but not on Telegraph - St. Joseph.
 
