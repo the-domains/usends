@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T18:53:17.893Z'
-dateModified: '2016-01-29T18:51:00.283Z'
+datePublished: '2016-01-29T19:03:54.398Z'
+dateModified: '2016-01-29T19:03:47.562Z'
 title: 'Historic endpoints of US 31 in Mobile, AL'
 author: []
 sourcePath: _posts/2016-01-29-historic-endpoints-of-us-31-in-mobile-al.md
@@ -24,11 +24,11 @@ _type: Blurb
 ---
 Battleship Parkway is the original 1926 causeway across Mobile Bay (prior to that, automobile traffic had to use ferries between Mobile and Daphne and/or Fairhope). Historic maps published by the state government, the federal government, and commercial cartographers alike agree that US 31 didn't always end at Spanish Fort; rather, the designation extended west, overlapped with US 90\. And the earliest US highway route logs specify US 31's endpoint as "Mobile" (not Spanish Fort). But where precisely did US 31 terminate? This page contains all the info I've been able to find so far, but unfortunately there are still more questions than answers. Sources include:
 
-* Alabama official state highway maps (most of which I simply describe, although a couple are shown below)
+* [Alabama official state highway maps][0] (most of which I simply describe, although a couple are shown below)
 * USGS topo maps (various dates and scales)
 * Commercial maps
 
-This map may be helpful in terms of illustrating the descriptions below. I am interested in seeing any additional information that might shed light on the route of US 31 in Mobile:
+[][1] may be helpful in terms of illustrating the descriptions below. I am interested in seeing any additional information that might shed light on the route of US 31 in Mobile:
 
 * maps
 * documents
@@ -90,6 +90,9 @@ Based on other maps in that series, red lines seem to have been used only for nu
 
 1982 1:24k USGS: Alt. US 90 was the only US route shown using the Cochrane Bridge. This map finally showed the highway routing along Beauregard (instead of St. Louis), but it carried only US 43 (not US 31). In fact, there were no US 31 shields at all on the Mobile quad, but on the adjacent quad to the east there was a US 31 marker on the Causeway, implying that it couldn't have gone any farther than BIJ.
 
-Again, this map might help to clarify all this. This page has photos and more information about historic endpoints at the Government/Broad intersection. Or, you can go back to the main US 31 page.
+Again, [][1] might help to clarify all this. This page has photos and more information about historic endpoints at the Government/Broad intersection. Or, you can go back to the main US 31 page.
 
 Additional research and/or photo credits: Nathan Edgars
+
+[0]: http://alabamamaps.ua.edu/historicalmaps/stateroads/index.html
+[1]: href
