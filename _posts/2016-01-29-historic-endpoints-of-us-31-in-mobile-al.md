@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T18:44:17.727Z'
+datePublished: '2016-01-29T18:44:17.805Z'
 dateModified: '2016-01-29T18:43:57.382Z'
 title: 'Historic endpoints of US 31 in Mobile, AL'
 author: []
