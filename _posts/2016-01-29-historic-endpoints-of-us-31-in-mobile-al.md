@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T18:44:17.805Z'
-dateModified: '2016-01-29T18:43:57.382Z'
+datePublished: '2016-01-29T18:53:17.677Z'
+dateModified: '2016-01-29T18:51:00.283Z'
 title: 'Historic endpoints of US 31 in Mobile, AL'
 author: []
 sourcePath: _posts/2016-01-29-historic-endpoints-of-us-31-in-mobile-al.md
@@ -36,10 +36,10 @@ This map may be helpful in terms of illustrating the descriptions below. I am in
 * etc. 
 
 The US routes were signed in the late 1920s, but the first Mobile inset to show them (of which I'm aware) comes from the 1936 State Highway Dept. official map:
-![ALDoT, c. 1936](https://the-grid-user-content.s3-us-west-2.amazonaws.com/90cd1074-7390-4961-895b-90b5fdeb3519.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5471f34-1ab6-476f-a4cf-c0c8bbdd54f8.jpg)
 
 That was a few years before the Bankhead Tunnel opened. The routing of US 90 is clearly shown: after crossing Mobile Bay, it continued by heading north on Blakeley Island, and then crossed the Mobile River via the original Cochrane Bridge (which opened in 1927, in the same location as today's Cochrane-Africatown Bridge). After heading west a bit on Bay Bridge Road, it then turned south on Telegraph Road and crossed the railyards to connect with Joachim Street. Then east three blocks on St. Louis Street, south on Royal Street, west on Government Street, and out of town. The 1939 edition of the map showed this more clearly, using red strokes for highway routes:
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3348caca-1ca2-44c4-87bf-fcb0c991a6d9.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/88db6c25-6825-43db-9315-4df8853dda83.jpg)
 
 Note how route designations were marked only on the map margins. That practice makes it more difficult to determine intra-city routings, and unfortunately ALDoT did that all the way through their 1970 edition.
 
