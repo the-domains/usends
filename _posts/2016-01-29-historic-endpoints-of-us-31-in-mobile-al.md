@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T19:03:54.807Z'
-dateModified: '2016-01-29T19:03:47.562Z'
+datePublished: '2016-01-30T16:20:14.606Z'
+dateModified: '2016-01-30T16:20:10.661Z'
 title: 'Historic endpoints of US 31 in Mobile, AL'
 author: []
 sourcePath: _posts/2016-01-29-historic-endpoints-of-us-31-in-mobile-al.md
@@ -28,7 +28,7 @@ Battleship Parkway is the original 1926 causeway across Mobile Bay (prior to tha
 * USGS topo maps (various dates and scales)
 * Commercial maps
 
-[][1] may be helpful in terms of illustrating the descriptions below. I am interested in seeing any additional information that might shed light on the route of US 31 in Mobile:
+This map may be helpful in terms of illustrating the descriptions below. I am interested in seeing any additional information that might shed light on the route of US 31 in Mobile:
 
 * maps
 * documents
@@ -90,9 +90,8 @@ Based on other maps in that series, red lines seem to have been used only for nu
 
 1982 1:24k USGS: Alt. US 90 was the only US route shown using the Cochrane Bridge. This map finally showed the highway routing along Beauregard (instead of St. Louis), but it carried only US 43 (not US 31). In fact, there were no US 31 shields at all on the Mobile quad, but on the adjacent quad to the east there was a US 31 marker on the Causeway, implying that it couldn't have gone any farther than BIJ.
 
-Again, [][1] might help to clarify all this. This page has photos and more information about historic endpoints at the Government/Broad intersection. Or, you can go back to the main US 31 page.
+Again, this map might help to clarify all this. This page has photos and more information about historic endpoints at the Government/Broad intersection. Or, you can go back to the main US 31 page.
 
 Additional research and/or photo credits: Nathan Edgars
 
 [0]: http://alabamamaps.ua.edu/historicalmaps/stateroads/index.html
-[1]: href
